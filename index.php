@@ -1,6 +1,6 @@
 <?php 
 
-<<<<<<< HEAD
+
 //my first git project started
 
 //branch 1
